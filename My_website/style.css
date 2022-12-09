@@ -1,0 +1,18 @@
+h1 {
+    font-family: 'Inter', sans-serif;
+    color: white;
+}
+
+html {
+    background-color: #293241;
+}
+
+.profile {
+    display:inline-block; margin-left: 200px; margin-top: 100px;
+    
+}
+
+.me {
+    height: 400px; width: 300px; 
+    border-radius: 30px;
+}
